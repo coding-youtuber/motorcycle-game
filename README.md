@@ -1,6 +1,10 @@
-# <p align="center"><a href='https://github.com/Dugnist/html5-boilerplate'><img width="200" src="http://css-live.ru/wp-content/uploads/2017/06/web1.png" alt="html5-boilerplate" /></a><br/> html5-boilerplate </p>
+![screenshot](https://user-images.githubusercontent.com/58985013/71009207-31256280-212d-11ea-9ac2-7a5ac203b120.jpg)
+
 
 ### Get started
+ボイラープレートを使っています。フロントエンドの環境を簡単に設定するためのテンプレートファイルみたいなものです。下記のリポジトリのものを使っています。
+
+ビルドの仕方の参考にしてください。
 
 ```
   git clone https://github.com/Dugnist/html5-boilerplate.git my_project
